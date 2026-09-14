@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAccessibilityUsageDescription</key>
+	<string>ReadIt needs Accessibility access to read the text you highlight and to listen for its global keyboard shortcut.</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>ReadIt may use Apple Events as a fallback when copying the current text selection.</string>
+</dict>
+</plist>
